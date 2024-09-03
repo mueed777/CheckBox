@@ -1,0 +1,12 @@
+body{
+    font-size: 3em;
+    padding-left: 1em;
+}
+
+#myCheckBox{
+    transform: scale(3);
+}
+
+#submitBtn{
+    transform: scale(2);
+}
